@@ -1,0 +1,3 @@
+[submodule "Basics/package-variable-function"]
+	path = Basics/package-variable-function
+	url = https://github.com/toshiki31/tour-of-go.git
